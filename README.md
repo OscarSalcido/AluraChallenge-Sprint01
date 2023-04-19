@@ -42,3 +42,6 @@ Glosario
 - 🟩 Se da click en el Botón "Desencriptar" y el resultado se muestra en el lado Derecho, reemplazando la imágen
 - 🟩 Una vez mostrado el resultado, aparecerá el Botón "Copiar", que copia al portapapeles el resultado
 - 🟩 Se puede ingresar este resultado para realizar la operación contraria
+
+# Autor del proyecto
+[![Discord](https://img.shields.io/badge/PATRICK%239235-7289da?logo=discord&logoColor=FFFFFF&style=for-the-badge)](https://discordapp.com/users/689222226372984856)
