@@ -44,4 +44,4 @@ Glosario
 - 🟩 Se puede ingresar este resultado para realizar la operación contraria
 
 # Autor del proyecto
-[![Discord](https://img.shields.io/badge/Alli#5986-7289da?logo=discord&logoColor=FFFFFF&style=for-the-badge)](https://discordapp.com/users/689222226372984856)
+[![Discord](https://img.shields.io/badge/ALLI#5986-7289da?logo=discord&logoColor=FFFFFF&style=for-the-badge)](https://discordapp.com/users/689222226372984856)
