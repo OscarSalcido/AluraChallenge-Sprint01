@@ -43,5 +43,3 @@ Glosario
 - 🟩 Una vez mostrado el resultado, aparecerá el Botón "Copiar", que copia al portapapeles el resultado
 - 🟩 Se puede ingresar este resultado para realizar la operación contraria
 
-# Autor del proyecto
-[![Discord](https://img.shields.io/badge/ALLI#5986-7289da?logo=discord&logoColor=FFFFFF&style=for-the-badge)](https://discordapp.com/users/689222226372984856)
