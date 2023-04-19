@@ -1,3 +1,3 @@
-<div align="center"><img src="https://raw.githubusercontent.com/patrickwebsdev/Encriptador-Oracle-Alura/master/img/one.png" width="200"/></div>
+<div align="center"><img src="https://github.com/OscarSalcido/AluraChallenge-Sprint01/blob/main/assets/Logo2.png" width="200"/></div>
 
 # 🚀 Challenge Encriptador | Oracle + Alura
