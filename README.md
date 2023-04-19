@@ -16,10 +16,10 @@
 
 # 📁 Descripción
 
-Primer Sprint parte del programa ONE impartido por Oracle® en conjunto con Alura®. Consta de 3 archivos, HTML, JS y CSS, que cumplen con la función de Encriptar/Desencriptar un texto ingresado. El programa edita el texto tomando en cuenta el siguiente glosario:}
+Primer Sprint parte del programa ONE impartido por Oracle® en conjunto con Alura®. Consta de 3 archivos, HTML, JS y CSS, que cumplen con la función de Encriptar/Desencriptar un texto ingresado. El programa edita el texto tomando en cuenta el siguiente glosario:
 
-# 
-# Glosario
+ 
+Glosario
 | Caracter | Caracter Encriptado |
 |-----------|-----------|
 | e | enter |
