@@ -30,15 +30,15 @@ Glosario
 
 ##  🧾 Indicaciones de uso
 # Encriptar
-- Se ingresa el texto que se desea Encriptar en el recuadro de texto de la Izquierda
-- -  Este solo debe contener minúsculas y sin acentos
-- Se da click en el Botón "Encriptar" y el resultado se muestra en el lado Derecho, reemplazando la imágen
-- Una vez mostrado el resultado, aparecerá el Botón "Copiar", que copia al portapapeles el resultado
-- Se puede ingresar este resultado para realizar la operación contraria
+- 🟩 Se ingresa el texto que se desea Encriptar en el recuadro de texto de la Izquierda
+- - ⬜ Este solo debe contener minúsculas y sin acentos
+- 🟩 Se da click en el Botón "Encriptar" y el resultado se muestra en el lado Derecho, reemplazando la imágen
+- 🟩 Una vez mostrado el resultado, aparecerá el Botón "Copiar", que copia al portapapeles el resultado
+- 🟩 Se puede ingresar este resultado para realizar la operación contraria
 
 # Desencriptar
-- Se ingresa el texto que se desea Desencriptar en el recuadro de texto de la Izquierda
-- -  Este solo debe contener minúsculas y sin acentos
-- Se da click en el Botón "Desencriptar" y el resultado se muestra en el lado Derecho, reemplazando la imágen
-- Una vez mostrado el resultado, aparecerá el Botón "Copiar", que copia al portapapeles el resultado
-- - Se puede ingresar este resultado para realizar la operación contraria
+- 🟩 Se ingresa el texto que se desea Desencriptar en el recuadro de texto de la Izquierda
+- - ⬜ Este solo debe contener minúsculas y sin acentos
+- 🟩 Se da click en el Botón "Desencriptar" y el resultado se muestra en el lado Derecho, reemplazando la imágen
+- 🟩 Una vez mostrado el resultado, aparecerá el Botón "Copiar", que copia al portapapeles el resultado
+- 🟩 Se puede ingresar este resultado para realizar la operación contraria
