@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/OscarSalcido/AluraChallenge-Sprint01/blob/main/assets/Logo.png" width="200"/>
-  <img src="https://github.com/OscarSalcido/AluraChallenge-Sprint01/blob/main/assets/Logo2.png" width="250"/>
+  <img src="https://github.com/OscarSalcido/AluraChallenge-Sprint01/blob/main/assets/Logo2.png" width="150"/>
 </div>
 
 
