@@ -18,9 +18,9 @@
 
 Primer Sprint parte del programa ONE impartido por Oracle® en conjunto con Alura®. Consta de 3 archivos, HTML, JS y CSS, que cumplen con la función de Encriptar/Desencriptar un texto ingresado. El programa edita el texto tomando en cuenta el siguiente glosario:
 
- 
+ |-----------|-----------|
 Glosario
-| Caracter | Caracter Encriptado |
+| Caracter Desencriptado | Caracter Encriptado |
 |-----------|-----------|
 | e | enter |
 | i | imes |
@@ -28,4 +28,6 @@ Glosario
 | o | ober |
 | u | ufat |
 
-# 📁 Descripción
+#  🧾 Indicaciones de uso
+- ⨳ Se ingresa el texto que se desea Encriptar/Desencriptar en el recuadro de texto de la Izquierda
+- - ⨳ Este solo debe contener minúsculas y sin acentos
