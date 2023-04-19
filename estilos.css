@@ -1,0 +1,177 @@
+*{ 
+	margin: 0;
+	padding: 0;
+}
+header
+{
+	width: 100%;
+	height: 60px;
+	background-color: darkslategray;
+}
+header img 
+{
+	margin-left: 95px;
+	padding: 5px;
+	filter: hue-rotate(10deg) brightness(500%);
+}
+main
+{
+	width: 100%;
+	height: 600px;
+	background-color: darkslategray;
+	display: flex;
+	justify-content: space-between;
+}
+footer
+{
+	width: 100%;
+	height: 65px;
+	background-color: darkslategray;
+}
+footer img
+{
+	display: flex;
+	margin-left: 95px;
+	padding: 5px;
+	border-radius: 4px;
+	height: 90%;
+	filter: hue-rotate(10deg) brightness(500%);
+}
+section
+{
+	height: 100%;
+	background-color: darkslategray;
+}
+
+.Ingreso
+{
+	width: 60%;
+	background-color: white;
+	margin-left: 40px;
+	border-radius: 20px;
+	border: 0;
+}
+.block1__aviso {
+	display: flex;
+ 	font-size: 1rem;
+  	margin-top: 15px;
+ 	color: var(--gray3);
+}
+.block1__aviso img
+{
+	border-radius: 4px;
+	margin-left: 35%;
+}
+
+.respuesta
+{
+	width: 30%;
+	margin-right: 60px;
+	background-color: white;
+	border-radius: 20px;
+	border: 0;
+}
+.warning
+{
+	width: 100%;
+	height: 55%;
+	padding-top: 40px;
+	text-align: center;
+	font-size: 20px;
+}
+.warning h3
+{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.text_area
+{
+	width: 80%;
+	height: 70%;
+	text-align: center;
+	resize: none;
+	display: block;
+	margin: auto;
+	margin-top: 30px;
+	font-size: 20px;
+	border-radius: 20px;
+	border: 0;
+}
+.text_area2
+{
+	width: 100%;
+	height: 100%;
+}
+.text_area2 textarea
+{
+	width: 80%;
+	height: 80%;
+	text-align: center;
+	resize: none;
+	display: block;
+	margin: auto;
+	margin-top: 30px;
+	font-size: 20px;
+	border-radius: 20px;
+	border: 0;
+	display: flex;
+}
+.boton_copiar
+{
+	width: 50%;
+	margin: auto;
+	height: 30px;
+	font-size: 15px;
+	border-radius: 20px;
+	border: 0;
+	cursor: pointer;
+	background-color: aquamarine;
+	display: block;
+}
+.contenedor_botones
+{
+	text-align: center;
+	resize: none;
+	display: block;
+	margin: auto;
+	margin-top: 30px;
+
+}
+.boton_encriptar, .boton_desencriptar
+{
+	width: 25%;
+	height: 30px;
+	font-size: 15px;
+	border-radius: 20px;
+	border: 0;
+	cursor: pointer;
+	background-color: aquamarine;
+}
+.boton_encriptar:hover
+{
+	background-color: lightgoldenrodyellow;
+}
+.boton_desencriptar:hover
+{
+	background-color: lightgoldenrodyellow;
+}
+.boton_copiar:hover
+{
+	background-color: lightgoldenrodyellow;
+}
+.contenedor_autor
+{
+	width: 80%;
+	height: 35%;
+	text-align: center;
+	resize: none;
+	display: block;
+	margin-top: 100px;
+	font-size: 15px;
+	color: white;
+}
+#textArea2
+{
+	display: none;
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>       <!-Indica tipo de documento->
+<html lang = "es">    <!-Indica idioma del texto->
+
+<head> <!-metadatos->
+	<meta charset="UTF-8">  <!-indica codificacion para evitar irregularidades con otros buscadores->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-evita errores de compatibilidad->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-ajusta el tamaño->
+	<!-anexamos los archivos .js (script de las funciones)->
+	<script type="text/javascript" src="script.js"></script>
+	<link rel="stylesheet" href="estilos.css">
+	<title> Cifrado </title>
+</head>
+
+<body> <!-contenido del programa->
+	<header> 
+		<img src="./assets/Logo.png" alt="Logo programa encriptador">
+	</header>
+	<main>
+		<section class="Ingreso">
+			<textarea class = "text_area" id="textoIngresado" placeholder="Ingrese el texto aqui"></textarea> 
+			<div class="contenedor_botones">
+				<input id="botonEncriptar" type="button" value="Encriptar" class="boton_encriptar">
+				<input id="botonDesencriptar" type="button" value="Desencriptar" class="boton_desencriptar">
+			</div>
+			<article class="block1__aviso">
+       			 <img src="./assets/bi_exclamation-circle-fill.png"/>
+        		<p>Solo letras minusculas y sin acentos</p>
+      		</article>
+		</section>
+		<section class="respuesta">
+			<article class="warning" id="WarningSelec">
+				<img src="./assets/Muñeco.png" alt="Muñeco">
+				<h3>Ningún mensaje fué encontrado</h3>
+				<span>Ingresa un texto de desees encriptar o desencriptar.</span>
+			</article>
+			<div class="text_area2" id="textArea2">
+				<textarea id="textoModificado">  </textarea>
+				<input id="botonCopiar" type="button" value="Copiar" class="boton_copiar">
+			</div>
+		</section>
+	</main>
+	<footer>
+		<img src="./assets/Logo2.png"alt="Logo2 programa encriptador">
+	</footer>
+	<script>
+		var boton = document.querySelector("#botonEncriptar"); //llama a la funcion encriptar al pulsar el botón encriptar
+		boton.onclick = encriptar;
+		var boton2 = document.querySelector("#botonDesencriptar"); //llama a la funcion desencriptar al pulsar el botón desencriptar
+		boton2.onclick = desencriptar;
+		var boton3 = document.querySelector("#botonCopiar"); //llama a la funcion copiar al pulsar el botón copiar
+		boton3.onclick = copiar;
+	</script>
+</body>
+</html>
